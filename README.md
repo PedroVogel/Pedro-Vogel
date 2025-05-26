@@ -15,16 +15,15 @@ Atualmente estou focado em minha carreira pessoal no volêi.
 
 !Aprendendo python
 
-> *(Adicione ou remova conforme suas habilidades)*
+
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVogel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVogel&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Vogel&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Vogel&layout=compact&theme=radical)
 
-> *Troque "SEU_USERNAME" pelo seu usuário do GitHub.*
 
 ---
 
