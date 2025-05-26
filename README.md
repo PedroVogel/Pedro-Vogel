@@ -1,5 +1,5 @@
 # Pedro-Vogel
-# 👋 Olá! Eu sou [Pedro Vogel]
+# 👋 Olá! Eu sou Pedro Vogel
 
 ### 🚀 Sobre mim
 Sou estudante apaixonado por tecnologias e volêi  
@@ -30,7 +30,7 @@ Atualmente estou focado em minha carreira pessoal no volêi.
 
 ### 📫 Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)  
+
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:croquetedaquebrada@gmail.com)  
 
 
