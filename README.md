@@ -1,14 +1,14 @@
 # Pedro-Vogel
-# 👋 Olá! Eu sou Pedro Vogel
+#  Olá! Eu sou Pedro Vogel
 
-### 🚀 Sobre mim
+###  Sobre mim
 Sou estudante apaixonado por tecnologias e volêi  
 Atualmente estou focado em minha carreira pessoal no volêi.
 
-- 🌱 Atualmente aprendendo: python
-- 👯 Buscando colaborar em: senai.
-- 🤝 Aberto para networking e parcerias!
-- ⚡ Curiosidade: adoro cães.
+-  Atualmente aprendendo: python
+-  Buscando colaborar em: senai.
+-  Aberto para networking e parcerias!
+-  Curiosidade: adoro cães.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
